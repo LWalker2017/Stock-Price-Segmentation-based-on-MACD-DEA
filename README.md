@@ -12,7 +12,5 @@ I design an algorithm to look for the local minimum price and local maximum pric
 ![Image_text](https://github.com/LWalker2017/Stock-Price-Segmentation-based-on-MACD-DEA/blob/master/image/20160701-20190701-1day.png)
 
 ![Image_text](https://github.com/LWalker2017/Stock-Price-Segmentation-based-on-MACD-DEA/blob/master/image/20160701-20190701-30min.png)
- 
-![Image text](https://github.com/LWalker2017/Stock-Price-Segmentation-based-on-MACD-DEA/blob/master/image/momentum-return.png)
 
-<div align=center><src="https://github.com/LWalker2017/Stock-Price-Segmentation-based-on-MACD-DEA/blob/master/image/momentum-return.png"/></div>
+<div align=center><img width="150" height="150" src="https://github.com/LWalker2017/Stock-Price-Segmentation-based-on-MACD-DEA/blob/master/image/momentum-return.png"/></div>
